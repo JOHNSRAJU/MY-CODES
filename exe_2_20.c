@@ -1,5 +1,5 @@
 /*****************************************************************************
-$ NAME - exe_2_19.c
+$ NAME - exe_2_20.c
 $ CREATOR - JOHNS RAJU 
 $ PROGRAM -  To check if all the three points fall on one straight line.
 $ DATE - 10/06/21 
